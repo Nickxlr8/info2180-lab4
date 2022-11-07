@@ -1,0 +1,28 @@
+h1  {
+    background-color:rgb(109, 143, 218);
+    padding:  35px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p#searchSent{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+p{
+    color: red;
+    font-weight: 200px;
+}
+
+input{
+    width: 500px;
+}
+button{
+    background-color: red;
+    color: white;
+}
+div.header{
+    padding-left: 50px;
+    padding-right: 50px;
+}
